@@ -16,4 +16,3 @@ run yarn hardhat node to use local testnet nodes
 configure metamask to support local nodes 
 
 // contract adress 
-0x5FbDB2315678afecb367f032d93F642f64180aa3
